@@ -1,5 +1,13 @@
 # P2P Lending Project Executive Summary
 
+## Preface
+This project was inspired by the following publication and was a part of my coursework for the INSY695 Service Analytics class at McGill University:
+
+*Cohen, Maxime & Guetta, C. & Jiao, Kevin & Provost, Foster. (2018). Data-Driven Investment Strategies for Peer-to-Peer Lending: A Case Study for Teaching Data Science. Big Data. 6. 191-213. 10.1089/big.2018.0092.*
+
+The link to the publication can be found here: https://www.researchgate.net/publication/327787704_Data-Driven_Investment_Strategies_for_Peer-to-Peer_Lending_A_Case_Study_for_Teaching_Data_Science
+
+
 ## Introduction
 Prosper and LendingClub are two P2P lending platforms that were established at very similar times but differ slightly as a result of their interest rates, borrower fees and application requirements. The aim of this study is to replicate and compare the LendingClub data driven strategy analysis using Prosper data. The dataset for LendingClub is more diverse containing over 100 predictors when compared to the Prosper dataset.
 The comparative study is divided into 6 respective parts: Introduction and Objectives, Data Ingestion and Cleaning, Data Exploration, Predictive Model Analysis, Investment Strategies and Optimization.
